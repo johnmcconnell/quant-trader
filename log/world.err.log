@@ -1,0 +1,11 @@
+java.io.EOFException
+	at java.io.ObjectInputStream$PeekInputStream.readFully(Unknown Source)
+	at java.io.ObjectInputStream$BlockDataInputStream.readShort(Unknown Source)
+	at java.io.ObjectInputStream.readStreamHeader(Unknown Source)
+	at java.io.ObjectInputStream.<init>(Unknown Source)
+	at main.sockets.TradeResponse.respond(TradeResponse.java:22)
+	at main.sockets.MyRequest.run(MyRequest.java:19)
+Exception in thread "Thread-2" java.util.NoSuchElementException
+	at java.util.LinkedList$ListItr.next(Unknown Source)
+	at world.World.tick(World.java:23)
+	at main.TickUpdater.run(TickUpdater.java:22)

@@ -1,0 +1,621 @@
+Tick Size: 1593
+The World has been created at Thu Apr 25 13:01:35 CDT 2013
+Trade [numShares=1, stockId=12, action=SELL]
+sell stock id: 12, a:1, p:193.6449
+Trade [numShares=1, stockId=3, action=SELL]
+sell stock id: 3, a:1, p:11.5226
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.1535
+Trade [numShares=1, stockId=12, action=SELL]
+sell stock id: 12, a:1, p:193.9138
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:74.6704
+Trade [numShares=1, stockId=9, action=SELL]
+sell stock id: 9, a:1, p:20.9486
+Trade [numShares=1, stockId=25, action=BUY]
+buy stock id: 25, a:1, p:52.2666
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:68.574
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:68.584
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.9617
+Trade [numShares=1, stockId=0, action=SELL]
+sell stock id: 0, a:1, p:8.8701
+Trade [numShares=1, stockId=2, action=BUY]
+buy stock id: 2, a:1, p:74.9188
+Trade [numShares=1, stockId=11, action=BUY]
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 11, a:1, p:15.8001
+buy stock id: 13, a:1, p:21.6276
+Trade [numShares=1, stockId=15, action=BUY]
+buy stock id: 15, a:1, p:45.91
+Trade [numShares=1, stockId=30, action=BUY]
+buy stock id: 30, a:1, p:133.6649
+Trade [numShares=1, stockId=10, action=BUY]
+Trade [numShares=1, stockId=17, action=SELL]
+sell stock id: 17, a:1, p:90.5098
+buy stock id: 10, a:1, p:63.3119
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.2185
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:43.23
+Trade [numShares=1, stockId=11, action=BUY]
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:60.99
+buy stock id: 11, a:1, p:15.8497
+Trade [numShares=1, stockId=15, action=SELL]
+sell stock id: 15, a:1, p:46.04
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:90.8372
+Trade [numShares=1, stockId=6, action=BUY]
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 6, a:1, p:110.9562
+buy stock id: 18, a:1, p:95.8481
+Trade [numShares=1, stockId=19, action=BUY]
+buy stock id: 19, a:1, p:42.8074
+Trade [numShares=1, stockId=26, action=SELL]
+sell stock id: 26, a:1, p:84.6238
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:43.35
+Trade [numShares=1, stockId=12, action=BUY]
+buy stock id: 12, a:1, p:193.396
+Trade [numShares=1, stockId=0, action=SELL]
+sell stock id: 0, a:1, p:8.8801
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.476
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:68.6038
+Trade [numShares=1, stockId=21, action=BUY]
+buy stock id: 21, a:1, p:26.3894
+Trade [numShares=1, stockId=25, action=BUY]
+buy stock id: 25, a:1, p:52.3264
+Trade [numShares=1, stockId=4, action=BUY]
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.5496
+buy stock id: 4, a:1, p:95.11
+Trade [numShares=1, stockId=5, action=SELL]
+sell stock id: 5, a:1, p:20.46
+Trade [numShares=1, stockId=13, action=SELL]
+sell stock id: 13, a:1, p:21.7314
+Trade [numShares=1, stockId=10, action=BUY]
+buy stock id: 10, a:1, p:63.2522
+Trade [numShares=1, stockId=17, action=SELL]
+sell stock id: 17, a:1, p:90.7083
+Trade [numShares=1, stockId=18, action=SELL]
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 18, a:1, p:95.6294
+sell stock id: 22, a:1, p:68.5443
+Trade [numShares=1, stockId=23, action=BUY]
+buy stock id: 23, a:1, p:34.25
+Trade [numShares=1, stockId=24, action=SELL]
+Trade [numShares=1, stockId=27, action=SELL]
+sell stock id: 27, a:1, p:43.34
+sell stock id: 24, a:1, p:74.3378
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:68.2
+Trade [numShares=1, stockId=30, action=SELL]
+sell stock id: 30, a:1, p:133.7543
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:68.5145
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.5256
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.8722
+Trade [numShares=1, stockId=9, action=BUY]
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:74.5511
+buy stock id: 9, a:1, p:20.9684
+Trade [numShares=1, stockId=8, action=SELL]
+sell stock id: 8, a:1, p:50.46
+Trade [numShares=1, stockId=21, action=SELL]
+sell stock id: 21, a:1, p:26.3794
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.5355
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.5
+Trade [numShares=1, stockId=0, action=SELL]
+Trade [numShares=1, stockId=25, action=BUY]
+buy stock id: 25, a:1, p:52.6452
+sell stock id: 0, a:1, p:8.8901
+Trade [numShares=1, stockId=6, action=SELL]
+sell stock id: 6, a:1, p:110.847
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.56
+Trade [numShares=1, stockId=11, action=BUY]
+buy stock id: 11, a:1, p:15.9988
+Trade [numShares=1, stockId=13, action=SELL]
+sell stock id: 13, a:1, p:21.7611
+Trade [numShares=1, stockId=12, action=BUY]
+buy stock id: 12, a:1, p:193.874
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:90.7876
+Trade [numShares=1, stockId=19, action=SELL]
+sell stock id: 19, a:1, p:42.8272
+Trade [numShares=1, stockId=18, action=SELL]
+sell stock id: 18, a:1, p:95.7487
+Trade [numShares=1, stockId=26, action=BUY]
+buy stock id: 26, a:1, p:84.7829
+Trade [numShares=1, stockId=30, action=BUY]
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:68.2
+buy stock id: 30, a:1, p:133.9333
+Trade [numShares=1, stockId=13, action=SELL]
+sell stock id: 13, a:1, p:21.7463
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.25
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.8156
+Trade [numShares=1, stockId=17, action=SELL]
+sell stock id: 17, a:1, p:90.738
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.605
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:95.7388
+Trade [numShares=1, stockId=23, action=SELL]
+sell stock id: 23, a:1, p:34.36
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:68.6534
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:68.2
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.9915
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.26
+Trade [numShares=1, stockId=26, action=SELL]
+sell stock id: 26, a:1, p:84.763
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 13, a:1, p:21.7562
+Trade [numShares=1, stockId=28, action=BUY]
+buy stock id: 28, a:1, p:68.2696
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:43.31
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:90.8273
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.3179
+Trade [numShares=1, stockId=11, action=BUY]
+buy stock id: 11, a:1, p:16.0187
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:95.6493
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:52.7149
+Trade [numShares=1, stockId=12, action=BUY]
+buy stock id: 12, a:1, p:193.6947
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:74.6008
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.6096
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:21.0279
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:75.2268
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:21.0279
+Trade [numShares=1, stockId=13, action=BUY]
+Trade [numShares=1, stockId=11, action=BUY]
+buy stock id: 13, a:1, p:21.8353
+buy stock id: 11, a:1, p:16.3267
+Trade [numShares=1, stockId=15, action=SELL]
+sell stock id: 15, a:1, p:45.6
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:91.0753
+Trade [numShares=1, stockId=22, action=BUY]
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:71.9148
+buy stock id: 22, a:1, p:69.0006
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.4197
+Trade [numShares=1, stockId=20, action=SELL]
+sell stock id: 20, a:1, p:26.6593
+Trade [numShares=1, stockId=14, action=BUY]
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.0403
+buy stock id: 14, a:1, p:71.9544
+Trade [numShares=1, stockId=4, action=BUY]
+buy stock id: 4, a:1, p:94.58
+Trade [numShares=1, stockId=1, action=SELL]
+sell stock id: 1, a:1, p:61.0
+Trade [numShares=1, stockId=5, action=SELL]
+sell stock id: 5, a:1, p:20.79
+Trade [numShares=1, stockId=10, action=SELL]
+Trade [numShares=1, stockId=18, action=SELL]
+sell stock id: 18, a:1, p:96.0568
+sell stock id: 10, a:1, p:63.3915
+Trade [numShares=1, stockId=26, action=BUY]
+buy stock id: 26, a:1, p:84.9519
+Trade [numShares=1, stockId=27, action=SELL]
+sell stock id: 27, a:1, p:42.97
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.6348
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.0799
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.6348
+Trade [numShares=1, stockId=21, action=BUY]
+buy stock id: 21, a:1, p:26.4488
+Trade [numShares=1, stockId=9, action=SELL]
+sell stock id: 9, a:1, p:20.9585
+Trade [numShares=1, stockId=12, action=BUY]
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.38
+buy stock id: 12, a:1, p:191.4342
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.3974
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.5849
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:52.9839
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:20.9486
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:75.6342
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.62
+Trade [numShares=1, stockId=16, action=BUY]
+buy stock id: 16, a:1, p:36.6745
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.7783
+Trade [numShares=1, stockId=21, action=BUY]
+buy stock id: 21, a:1, p:26.5083
+Trade [numShares=1, stockId=8, action=SELL]
+sell stock id: 8, a:1, p:50.7
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.4597
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.29
+Trade [numShares=1, stockId=4, action=SELL]
+sell stock id: 4, a:1, p:94.43
+Trade [numShares=1, stockId=10, action=BUY]
+Trade [numShares=1, stockId=7, action=BUY]
+buy stock id: 7, a:1, p:45.9148
+buy stock id: 10, a:1, p:63.2622
+Trade [numShares=1, stockId=11, action=SELL]
+sell stock id: 11, a:1, p:16.8733
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 13, a:1, p:21.6572
+Trade [numShares=1, stockId=18, action=SELL]
+sell stock id: 18, a:1, p:96.6531
+Trade [numShares=1, stockId=19, action=SELL]
+sell stock id: 19, a:1, p:43.0253
+Trade [numShares=1, stockId=27, action=SELL]
+sell stock id: 27, a:1, p:42.59
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.5069
+Trade [numShares=1, stockId=30, action=BUY]
+buy stock id: 30, a:1, p:134.162
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.1791
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.9517
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.1692
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.9815
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:72.1221
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:76.0813
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.3524
+Trade [numShares=1, stockId=0, action=SELL]
+sell stock id: 0, a:1, p:8.8901
+Trade [numShares=1, stockId=9, action=SELL]
+sell stock id: 9, a:1, p:21.0081
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:72.0834
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.3225
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.9517
+Trade [numShares=1, stockId=16, action=BUY]
+buy stock id: 16, a:1, p:36.7341
+Trade [numShares=1, stockId=21, action=SELL]
+sell stock id: 21, a:1, p:26.4885
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.9617
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.6791
+Trade [numShares=1, stockId=0, action=BUY]
+buy stock id: 0, a:1, p:8.9299
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:20.9912
+Trade [numShares=1, stockId=15, action=BUY]
+buy stock id: 15, a:1, p:45.97
+Trade [numShares=1, stockId=13, action=SELL]
+sell stock id: 13, a:1, p:21.6721
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.472
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.5367
+Trade [numShares=1, stockId=26, action=BUY]
+buy stock id: 26, a:1, p:85.3992
+Trade [numShares=1, stockId=19, action=BUY]
+buy stock id: 19, a:1, p:42.946
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:76.0813
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.9247
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.1395
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.9219
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.4597
+Trade [numShares=1, stockId=4, action=BUY]
+buy stock id: 4, a:1, p:94.58
+Trade [numShares=1, stockId=5, action=BUY]
+buy stock id: 5, a:1, p:20.97
+Trade [numShares=1, stockId=10, action=BUY]
+Trade [numShares=1, stockId=6, action=SELL]
+sell stock id: 6, a:1, p:111.7401
+buy stock id: 10, a:1, p:63.1428
+Trade [numShares=1, stockId=17, action=SELL]
+sell stock id: 17, a:1, p:90.7579
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:42.54
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.5566
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:67.9715
+Trade [numShares=1, stockId=26, action=SELL]
+sell stock id: 26, a:1, p:85.3197
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:96.5537
+Trade [numShares=1, stockId=5, action=BUY]
+buy stock id: 5, a:1, p:20.97
+Trade [numShares=1, stockId=4, action=SELL]
+sell stock id: 4, a:1, p:94.58
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.23
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 13, a:1, p:21.6721
+Trade [numShares=1, stockId=17, action=SELL]
+sell stock id: 17, a:1, p:90.7678
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.7142
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.1196
+Trade [numShares=1, stockId=23, action=SELL]
+sell stock id: 23, a:1, p:34.03
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:67.9814
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.5566
+Trade [numShares=1, stockId=30, action=BUY]
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.902
+buy stock id: 30, a:1, p:134.1123
+Trade [numShares=1, stockId=12, action=SELL]
+sell stock id: 12, a:1, p:191.9023
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.0998
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:71.9654
+Trade [numShares=1, stockId=3, action=SELL]
+sell stock id: 3, a:1, p:11.4797
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.15
+Trade [numShares=1, stockId=15, action=BUY]
+buy stock id: 15, a:1, p:45.86
+Trade [numShares=1, stockId=18, action=SELL]
+sell stock id: 18, a:1, p:96.4742
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.5551
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:42.51
+Trade [numShares=1, stockId=30, action=BUY]
+buy stock id: 30, a:1, p:133.9731
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.56
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:61.21
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:75.9323
+Trade [numShares=1, stockId=12, action=SELL]
+sell stock id: 12, a:1, p:191.7429
+Trade [numShares=1, stockId=6, action=SELL]
+sell stock id: 6, a:1, p:111.8988
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.5268
+Trade [numShares=1, stockId=30, action=SELL]
+sell stock id: 30, a:1, p:134.0328
+Trade [numShares=1, stockId=24, action=BUY]
+Trade [numShares=1, stockId=28, action=BUY]
+buy stock id: 28, a:1, p:67.8721
+buy stock id: 24, a:1, p:74.5069
+Trade [numShares=1, stockId=0, action=BUY]
+buy stock id: 0, a:1, p:8.8602
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.0934
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.808
+Trade [numShares=1, stockId=16, action=BUY]
+buy stock id: 16, a:1, p:36.5653
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.6271
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:68.9807
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.6271
+Trade [numShares=1, stockId=16, action=BUY]
+Trade [numShares=1, stockId=21, action=BUY]
+buy stock id: 21, a:1, p:26.3398
+buy stock id: 16, a:1, p:36.6249
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:68.9708
+Trade [numShares=1, stockId=12, action=SELL]
+sell stock id: 12, a:1, p:190.2392
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:60.73
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:96.6332
+Trade [numShares=1, stockId=26, action=BUY]
+buy stock id: 26, a:1, p:84.9916
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.7952
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:42.49
+Trade [numShares=1, stockId=8, action=BUY]
+buy stock id: 8, a:1, p:50.63
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.6171
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.0303
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.6636
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.5576
+Trade [numShares=1, stockId=20, action=BUY]
+buy stock id: 20, a:1, p:26.6841
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.6139
+Trade [numShares=1, stockId=4, action=SELL]
+sell stock id: 4, a:1, p:95.19
+Trade [numShares=1, stockId=5, action=SELL]
+sell stock id: 5, a:1, p:20.8
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:90.4503
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.7853
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:96.5835
+Trade [numShares=1, stockId=27, action=SELL]
+sell stock id: 27, a:1, p:42.44
+Trade [numShares=1, stockId=28, action=BUY]
+buy stock id: 28, a:1, p:67.8423
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:76.1707
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:20.8891
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.3225
+Trade [numShares=1, stockId=1, action=BUY]
+buy stock id: 1, a:1, p:60.62
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 13, a:1, p:21.7364
+Trade [numShares=1, stockId=18, action=BUY]
+buy stock id: 18, a:1, p:96.5935
+Trade [numShares=1, stockId=19, action=BUY]
+buy stock id: 19, a:1, p:42.8866
+Trade [numShares=1, stockId=24, action=BUY]
+buy stock id: 24, a:1, p:74.7654
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:42.36
+Trade [numShares=1, stockId=5, action=BUY]
+buy stock id: 5, a:1, p:20.875
+Trade [numShares=1, stockId=1, action=SELL]
+sell stock id: 1, a:1, p:60.6
+Trade [numShares=1, stockId=23, action=BUY]
+buy stock id: 23, a:1, p:33.83
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.8052
+Trade [numShares=1, stockId=28, action=SELL]
+sell stock id: 28, a:1, p:67.892
+Trade [numShares=1, stockId=11, action=SELL]
+sell stock id: 11, a:1, p:16.3267
+Trade [numShares=1, stockId=19, action=BUY]
+buy stock id: 19, a:1, p:42.7876
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.2386
+Trade [numShares=1, stockId=23, action=SELL]
+sell stock id: 23, a:1, p:33.84
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.5741
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.2386
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.594
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:71.6667
+Trade [numShares=1, stockId=4, action=SELL]
+Trade [numShares=1, stockId=5, action=BUY]
+buy stock id: 5, a:1, p:20.9
+sell stock id: 4, a:1, p:95.65
+Trade [numShares=1, stockId=11, action=SELL]
+sell stock id: 11, a:1, p:16.3466
+Trade [numShares=1, stockId=23, action=SELL]
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.9842
+sell stock id: 23, a:1, p:33.9
+Trade [numShares=1, stockId=11, action=SELL]
+Trade [numShares=1, stockId=1, action=SELL]
+sell stock id: 1, a:1, p:60.74
+sell stock id: 11, a:1, p:16.3466
+Trade [numShares=1, stockId=13, action=BUY]
+buy stock id: 13, a:1, p:21.677
+Trade [numShares=1, stockId=17, action=BUY]
+buy stock id: 17, a:1, p:90.5297
+Trade [numShares=1, stockId=15, action=BUY]
+buy stock id: 15, a:1, p:45.96
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.9742
+Trade [numShares=1, stockId=30, action=BUY]
+buy stock id: 30, a:1, p:134.0626
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.8731
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.199
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:71.637
+Trade [numShares=1, stockId=16, action=BUY]
+buy stock id: 16, a:1, p:36.8731
+Trade [numShares=1, stockId=21, action=SELL]
+sell stock id: 21, a:1, p:26.3398
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.189
+Trade [numShares=1, stockId=23, action=SELL]
+sell stock id: 23, a:1, p:33.91
+Trade [numShares=1, stockId=27, action=BUY]
+buy stock id: 27, a:1, p:42.31
+Trade [numShares=1, stockId=24, action=SELL]
+sell stock id: 24, a:1, p:74.9941
+Trade [numShares=1, stockId=8, action=SELL]
+sell stock id: 8, a:1, p:50.9
+Trade [numShares=1, stockId=12, action=BUY]
+buy stock id: 12, a:1, p:190.7869
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.881
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.189
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.7331
+Trade [numShares=1, stockId=14, action=SELL]
+sell stock id: 14, a:1, p:71.6072
+Trade [numShares=1, stockId=22, action=BUY]
+buy stock id: 22, a:1, p:69.189
+Trade [numShares=1, stockId=29, action=SELL]
+sell stock id: 29, a:1, p:88.7927
+Trade [numShares=1, stockId=5, action=BUY]
+buy stock id: 5, a:1, p:20.935
+Trade [numShares=1, stockId=15, action=BUY]
+buy stock id: 15, a:1, p:46.07
+Trade [numShares=1, stockId=26, action=BUY]
+buy stock id: 26, a:1, p:85.3594
+Trade [numShares=1, stockId=2, action=SELL]
+sell stock id: 2, a:1, p:76.0912
+Trade [numShares=1, stockId=22, action=SELL]
+sell stock id: 22, a:1, p:69.1692
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.4927
+Trade [numShares=1, stockId=16, action=SELL]
+sell stock id: 16, a:1, p:36.9624
+Trade [numShares=1, stockId=3, action=BUY]
+buy stock id: 3, a:1, p:11.4397
+Trade [numShares=1, stockId=8, action=SELL]
+sell stock id: 8, a:1, p:50.95
+Trade [numShares=1, stockId=12, action=BUY]
+buy stock id: 12, a:1, p:191.1952
+Trade [numShares=1, stockId=9, action=BUY]
+buy stock id: 9, a:1, p:21.0279
+Trade [numShares=1, stockId=25, action=SELL]
+sell stock id: 25, a:1, p:53.5417
+Trade [numShares=1, stockId=14, action=BUY]
+buy stock id: 14, a:1, p:71.6965
+Trade [numShares=1, stockId=22, action=BUY]
+Trade [numShares=1, stockId=16, action=BUY]
+buy stock id: 22, a:1, p:69.3279
+buy stock id: 16, a:1, p:37.0518
+Trade [numShares=1, stockId=29, action=BUY]
+buy stock id: 29, a:1, p:88.8027
+killed
